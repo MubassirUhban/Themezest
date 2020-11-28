@@ -1,0 +1,38 @@
+{
+  "name": "Touch To Gain",
+  "short_name": "Touch 2 Gain",
+  "start_url": "https://touchtogain.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Yaha aaf  Hacking, Android, YouTube, Facebook, Whatsapp, Earnings,blog, Computer Master, Software, Editing like photos etc related posts Jo aaf Urdu aur hindi , English aur bahut languages mai free daikh sakty hy Q kih es blog ka bunyady maqsad aaf logo ko har qism maloomat sy aagah rakhna.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s48/logo-touch2gain.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s72/logo-touch2gain.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s96/logo-touch2gain.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s144/logo-touch2gain.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s168/logo-touch2gain.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s192/logo-touch2gain.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NRr6Bq1ejks/X8J5iYEdjOI/AAAAAAAAB2I/bS_653OFCfIXNM0ZwR0Sjc4Vvke42VZEACLcBGAsYHQ/s512/logo-touch2gain.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
